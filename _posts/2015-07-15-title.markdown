@@ -1,33 +1,18 @@
 ---
 layout: post
-title: a post with code
-date: 2015-07-15 15:09:00
-description: an example of a blog post with some code
+title: Graduate Research Assistant, Illinois Tech
+date: 2018-05-05 5:09:00
+description: Roles and responsibilities.
 ---
-This theme implements a built-in Jekyll feature, the use of Pygments, for sytanx highlighting. It supports more than 100 languages. This example is in C++. All you have to do is wrap your code in a liquid tag: 
-{% raw  %}
-{% highlight c++ %}  <br/> code code code <br/> {% endhighlight %}{% endraw %}
 
-Produces something like this: 
+### Engineering
+•	Worked on research application project on wearables technology specializing in health pattern and              behavior analysis
+•	Designed and Implemented a seamless user experience to track health pattern, collect activity data in real time from extended connected devices using HealthKit by Apple, Google Fit APIs and Advanced Java
 
-{% highlight c++ %}
+### Product Management
 
-int main(int argc, char const *argv[])
-{
-	string myString;
+•	Led engineering team in end to end product research and development on for sports industry wearables.
+•	Guided vision for people and led the ideation, technical development, and launch of innovative products around web/mobile applications.
+•	Research and development on wearable bands, specializing in health patterns and behavior analysis.
+•	Collected activity metrics and sensor data sources using Google Fit SDK and connected devices to provide strategic direction for research.
 
-	cout << "input a string: ";
-	getline(cin, myString);
-	int length = myString.length();
-	
-	char charArray = new char * [length];
-
-	charArray = myString;
-	for(int i = 0; i < length; ++i){
-		cout << charArray[i] << " ";
-	}
-	
-	return 0;
-}
-
-{% endhighlight %}
