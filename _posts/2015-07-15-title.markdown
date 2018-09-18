@@ -6,12 +6,15 @@ description: Roles and responsibilities.
 ---
 
 ### Engineering
-•	Worked on research application project on wearables technology specializing in health pattern and behavior analysis
-•	Designed and Implemented a seamless user experience to track health pattern, collect activity data in real time from extended connected devices using HealthKit by Apple, Google Fit APIs and Advanced Java
+<ul>
+<li>•	Worked on research application project on wearables technology specializing in health pattern and behavior analysis</li>
+<li>•	Designed and Implemented a seamless user experience to track health pattern, collect activity data in real time from extended connected devices using HealthKit by Apple, Google Fit APIs and Advanced Java</li>
+</ul>
 
 ### Product Management
-
-•	Led engineering team in end to end product research and development on for sports industry wearables.
-•	Guided vision for people and led the ideation, technical development, and launch of innovative products around web/mobile applications.
-•	Research and development on wearable bands, specializing in health patterns and behavior analysis.
-•	Collected activity metrics and sensor data sources using Google Fit SDK and connected devices to provide strategic direction for research.
+<ul>
+<li>•	Led engineering team in end to end product research and development on for sports industry wearables.</li>
+<li>•	Guided vision for people and led the ideation, technical development, and launch of innovative products around web/mobile applications.</li>
+<li>•	Research and development on wearable bands, specializing in health patterns and behavior analysis.</li>
+<li>•	Collected activity metrics and sensor data sources using Google Fit SDK and connected devices to provide strategic direction for research.</li>
+ </ul>
