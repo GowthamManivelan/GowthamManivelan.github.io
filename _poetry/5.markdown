@@ -1,1 +1,10 @@
-
+---
+layout: post
+title: News Sites Web Crawler | Java, IBM Watson Analytics
+date: 2018-02-04 07:59:00
+---
+<br/>
+<ul>
+<li>Configured and compiled the open source java web crawler to crawl “Wall street Journal” and record statistics about the pages that are fed to IBM Watson for AI learning, predicting and answering.</li>
+</ul>
+<br/>
