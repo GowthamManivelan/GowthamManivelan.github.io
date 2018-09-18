@@ -17,9 +17,8 @@ description: Digital Pumpkin, Research Lab.
 ### Product Management 
 <br/>
 <ul>
-<li>Increased company revenue by 37% through coordinating product launch in partnership with delivery team, maximizing effectiveness and product experience of an indoor asset tracking system.</li>
-<li>Provided leadership, designing methodologies and best practices enhancing product definition, processes and customization for user needs.  Managed product development lifecycle, product quality and customer satisfaction delivered product requirements.</li>
-<li>Led team of developers to drive mobile/IoT application product development, end to end, planning beta version release of products while collecting feedback and overseeing changes.</li>
-<li>While tracking performance of each customer activity stage, conducted market analysis for connected home technology and research, capturing technology feasibility and sustainability advantage over others in market space.</li>
-<li>Managed priorities based on time to market, requested build speed against specified region, and navigation based on indicated growth and creative planning.</li>
+<li>Supported POCs delivery teams in software/IoT pilot projects, improving 33% expected time to market, increasing research lab revenue by 34% and resulted in 100% adoption by business and raising total organization revenue to $25M.</li>
+<li>Supported usability and clients accelerating digital innovation, conduct primary research and create functional prototypes and pilotable solutions. Drove innovation, design of new products, technology adoption trends and market analysis metrics for 15 proof of concept solutions that includes technologies like wearables, connected home, smart building, smart navigation system, augmented reality on retails, smart cars, beacons etc.</li>
+<li>Presented documented tech, UX, and securities to 15 departments for new product launches and engineering improvement initiatives.</li>
+<li>Responsible for solving the problems, presenting demos on behalf of engineering team to executive officials, the board of directors and clients. conducted market analysis to maximize efficiency customer enterprise and engineering capabilities evolving environment, creating and institutionalizing fluid processes and creative solutions.</li>
  </ul>
