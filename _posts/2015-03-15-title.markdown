@@ -4,3 +4,22 @@ title:  Software Engineer, Mindtree Ltd
 date:   2015-03-15 16:40:16
 description: Digital Pumpkin, Research Lab.
 ---
+
+### Engineering 
+<br/>
+<ul>
+<li>	One of 15 candidates chosen for Digital Pumpkin, an innovation hub and interactive space for ideation, designing and crafting business solutions. As the youngest candidate at the research lab, prototyped, designed and developed minimum viable product through coordinating with cross-functional teams</li>
+<li>	Contributed to IoT/Software researches on connected home, connected cars, indoor navigation systems which involved the study of statistical machine learning algorithms, the role of natural language components in building the context of IoT technology</li>
+<li> Implemented an evacuation and search algorithm using Java, springs, hiberates, android to query and navigate to the immediate exit way in a building infrastructure under emergency circumstances</li>
+<li>Ideated and developed multiple proof of concepts including the solution plan (technical and commercial), detailing out requirements, including solution, scope, delivery model, resource plan, assumptions and risks for opportunities involving Mobile Applications (Android & iOS) & extended devices such as wearables, sensors, beacons etc </li>
+</ul>
+
+### Product Management 
+<br/>
+<ul>
+<li>Increased company revenue by 37% through coordinating product launch in partnership with delivery team, maximizing effectiveness and product experience of an indoor asset tracking system.</li>
+<li>Provided leadership, designing methodologies and best practices enhancing product definition, processes and customization for user needs.  Managed product development lifecycle, product quality and customer satisfaction delivered product requirements.</li>
+<li>Led team of developers to drive mobile/IoT application product development, end to end, planning beta version release of products while collecting feedback and overseeing changes.</li>
+<li>While tracking performance of each customer activity stage, conducted market analysis for connected home technology and research, capturing technology feasibility and sustainability advantage over others in market space.</li>
+<li>Managed priorities based on time to market, requested build speed against specified region, and navigation based on indicated growth and creative planning.</li>
+ </ul>
