@@ -2,7 +2,7 @@
 layout: page
 permalink: /poetry/
 title: Projects
-description: Showcase your writing, short stories, or poems. Replace this text with your description.
+description: Independent research projects.
 ---
 
 <ul class="post-list">
