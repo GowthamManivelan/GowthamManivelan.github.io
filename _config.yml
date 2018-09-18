@@ -2,7 +2,7 @@
 title: "Gowtham Manivelan"
 email: "gmanivel@hawk.iit.edu"
 description: > # this means to ignore newlines until "baseurl:"
-  Not just a software engineer, not just a product manager. I enjoy doing both hand in hand.
+  Engineering and Product Management hand in hand
 baseurl:  # the subpath of your site, e.g. /blog/
 url: https://GowthamManivelan.github.io # the base hostname & protocol for your site
 twitter_username: twitter_username
