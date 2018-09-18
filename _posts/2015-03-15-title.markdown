@@ -21,4 +21,4 @@ description: Digital Pumpkin, Research Lab.
 <li>Supported usability and clients accelerating digital innovation, conduct primary research and create functional prototypes and pilotable solutions. Drove innovation, design of new products, technology adoption trends and market analysis metrics for 15 proof of concept solutions that includes technologies like wearables, connected home, smart building, smart navigation system, augmented reality on retails, smart cars, beacons etc.</li>
 <li>Presented documented tech, UX, and securities to 15 departments for new product launches and engineering improvement initiatives.</li>
 <li>Responsible for solving the problems, presenting demos on behalf of engineering team to executive officials, the board of directors and clients. conducted market analysis to maximize efficiency customer enterprise and engineering capabilities evolving environment, creating and institutionalizing fluid processes and creative solutions.</li>
- </ul>
+</ul>
