@@ -6,7 +6,7 @@ description: Roles and responsibilities.
 ---
 
 ### Engineering 
-
+<br/>
 
 <ul>
 <li>	Worked on research application project on wearables technology specializing in health pattern and behavior analysis</li>
@@ -15,7 +15,7 @@ description: Roles and responsibilities.
 
 ### Product Management 
 
-
+<br/>
 <ul>
 <li>Led engineering team in end to end product research and development on for sports industry wearables.</li>
 <li>Guided vision for people and led the ideation, technical development, and launch of innovative products around web/mobile applications.</li>
