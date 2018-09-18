@@ -5,3 +5,24 @@ date: 2017-05-15 21:01:00
 description: Mobile and IoT Engineering team.
 ---
 
+### Engineering 
+<br/>
+<ul>
+<li>	Developed an algorithm on location services with machine learning engines for indoor location and asset tracking capabilities using Python and TensorFlow</li>
+<li>	Automated and optimized the source code of an internal testing framework that stores results in backend MongoDB database</li>
+<li> Prototyped and implemented a voice AI Amazon alexa skill for tracking indoor assets and navigation tech</li>
+<li> Ideated and Spearheaded the engineering team in modernization of applications with the deployment of Amazon Lambda Function and EC2 containers </li>
+<li> Implemented a “drag and drop” feature for easy import of log files to a bug tracker tool to facilitate easy debugging for developers using Java swing </li>
+<li> Implemented a massively scalable open source MQTT Broker to withstand high amount of traffic data requests from sensors and other IoT devices </li>
+<li> Developed an end to end mobile application platform for seamless user experience on connected home technology using Android, Amazon IoT, Web services </li>
+</ul>
+
+### Product Management 
+<br/>
+<ul>
+<li>Increased company revenue by 37% through coordinating product launch in partnership with delivery team, maximizing effectiveness and product experience of an indoor asset tracking system.</li>
+<li>Provided leadership, designing methodologies and best practices enhancing product definition, processes and customization for user needs.  Managed product development lifecycle, product quality and customer satisfaction delivered product requirements.</li>
+<li>Led team of developers to drive mobile/IoT application product development, end to end, planning beta version release of products while collecting feedback and overseeing changes.</li>
+<li>While tracking performance of each customer activity stage, conducted market analysis for connected home technology and research, capturing technology feasibility and sustainability advantage over others in market space.</li>
+<li>Managed priorities based on time to market, requested build speed against specified region, and navigation based on indicated growth and creative planning.</li>
+ </ul>
