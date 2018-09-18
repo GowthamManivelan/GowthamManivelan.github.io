@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Stock Market Analyzer | Javascript, Node js, Angular js
