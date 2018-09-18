@@ -12,6 +12,7 @@ description: Roles and responsibilities.
 </ul>
 
 ### Product Management
+
 <ul>
 <li>Led engineering team in end to end product research and development on for sports industry wearables.</li>
 <li>Guided vision for people and led the ideation, technical development, and launch of innovative products around web/mobile applications.</li>
