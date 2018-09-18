@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Software Engineer, Mindtree Ltd
-date:   2015-03-15 16:40:16
+date:   2016-06-30 16:40:16
 description: Digital Pumpkin, Research Lab.
 ---
 
