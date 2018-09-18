@@ -12,5 +12,5 @@ date: 2017-07-06 07:59:00
   </ul>
   <br/>
 
-(Demo)[https://github.com/GowthamManivelan/My_AI]
+[Demo](https://github.com/GowthamManivelan/My_AI)
 
