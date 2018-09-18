@@ -7,9 +7,11 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
-
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
+I'm a rising graduate at Illinois Tech majoring in Information Technology & Management and summer 2018 student at Stanford specializing in Product Management, IoT.
+<br/>
+The process of taking a technology and turning into an amazing user experience by defining a product excites me. My professional work experience as a software developer in IoT startup and one of the leading software research labs of India provided me a solid space to turn ideas from inception to tangible products. 
+<br/>
+With strong engineering background and product management expertise, what I can bring to the table is the unique combination of Skillsets aligned with Product Goal & Positioning, User Experience, Engineering, Data, Business, Technology, Security, Standards & Regulations Area. I pay attention to the details and strategies of what it takes to build a great product the world needs, own the responsibility in driving the product development. 
 
 
 <br/>
