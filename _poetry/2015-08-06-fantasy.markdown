@@ -7,5 +7,7 @@ date: 2015-08-06 07:59:00
 <ul>
 <li>Designed and developed an intelligent app trained by machine learning algorithm to understand the building floorplan</li>
 <li>Developed an occupancy information model using Microsoft office APIs and emqtt pub/sub model</li>
-<li>Implemented a live navigation with voice commands using Google Maps API</li?
+<li>Implemented a live navigation with voice commands using Google Maps API</li>
 </ul>
+<br/>
+[Demo here](https://drive.google.com/file/d/0BxJ__tDuOCG5WndwLXVIb1g3bVk/view)
